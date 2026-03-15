@@ -11,7 +11,7 @@ Bu proje, sağlık ocakları ve klinikler için geliştirilmiş; hasta kayıt, d
 ## 🛠️ Kullanılan Teknolojiler
 * **Programlama Dili:** C#
 * **Arayüz:** Windows Forms (.NET Framework)
-* [cite_start]**Geliştirme Ortamı:** Visual Studio 
+**Geliştirme Ortamı:** Visual Studio 
 * **Veritabanı:** Microsoft SQL Server
 * **Veri Erişim Teknolojisi:** ADO.NET
 
