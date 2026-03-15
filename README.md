@@ -31,3 +31,9 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 4.VeriBaglantisi.cs dosyası içerisindeki "Connection String" (Bağlantı Cümlesi) kısmını kendi lokal SQL Server sunucu adınıza göre güncelleyin.
 
 5.Projeyi derleyip çalıştırın (Start / F5).
+
+<!-- Uploading "Ekran görüntüsü 2026-03-15 180310.png"... -->
+
+<img width="887" height="147" alt="Image" src="https://github.com/user-attachments/assets/abd392f9-4336-45b7-bbb4-0c9de911be33" />
+
+<img width="1356" height="914" alt="Image" src="https://github.com/user-attachments/assets/4eb086ea-ac74-4e21-96e0-b3984a49c4c9" />
